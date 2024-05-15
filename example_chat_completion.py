@@ -3,7 +3,7 @@
 
 from typing import List, Optional
 
-import fire
+import fire # fire is a Python library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 from llama import Dialog, Llama
 
